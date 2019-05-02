@@ -123,7 +123,7 @@ NAME tea
 DLG ITM_0
 
 DLG SPR_0
-I'm a bee
+I'm a bee, bitch
 
 DLG ITM_0
 You found a nice warm cup of tea
