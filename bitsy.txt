@@ -26,6 +26,7 @@ d,a,0,0,0,0,0,a,0,a,a,0,0,0,a,c
 d,a,0,0,0,0,0,0,a,a,0,0,0,0,a,c
 d,a,a,a,a,a,a,a,a,a,a,a,a,a,a,c
 h,f,f,f,f,f,f,f,f,f,f,f,f,f,f,g
+ITM 0 12,9
 PAL 0
 
 TIL a
@@ -198,3 +199,25 @@ SPR b
 00011100
 NAME queen2
 POS 0 9,12
+
+ITM 0
+00000000
+10011001
+11111111
+10100101
+10100101
+11111111
+10000001
+11111111
+NAME royal jelly
+DLG ITM_0
+
+DLG SPR_0
+I'm a bee
+
+DLG ITM_0
+You found royal jelly.
+
+VAR a
+42
+
